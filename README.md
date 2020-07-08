@@ -9,3 +9,5 @@ The database script has also offered as code/freelancer.sql
 * `mysql` 8.0.17
 * `pymysql` 0.9.3
 * `BeautifulSoup4` 4.9.1
+
+### Use Heahder and Proxy to bypass captcha ! 
